@@ -1,5 +1,7 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Ola, mundo!");
+
+        int modulo = 19 % 3;
+        System.out.println(modulo);
     }
 }
